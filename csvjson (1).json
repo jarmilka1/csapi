@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Jablko",
+    "calories": 52.1,
+    "height": "10cm"
+  },
+  {
+    "name": "Pomeranč",
+    "calories": 47.1,
+    "height": "13cm"
+  },
+  {
+    "name": "Mandarinka",
+    "calories": 47,
+    "height": "7cm"
+  },
+  {
+    "name": "Mango",
+    "calories": 59.8,
+    "height": "18cm"
+  },
+  {
+    "name": "Meloun",
+    "calories": 30.4,
+    "height": "30cm"
+  }
+]
